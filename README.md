@@ -1,3 +1,7 @@
+Bienvenidos a mi portfolio,no está terminado, le faltaría terminar el componente Portfolio, en donde tendría un carousel con los trabajos realizados y enlaces a mi github, y desplegarlo.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
